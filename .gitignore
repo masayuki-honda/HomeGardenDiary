@@ -53,3 +53,7 @@ coverage/
 dev-dist/
 /sw.js
 workbox-*.js
+
+# Lighthouse CI
+.lighthouseci/
+lhci-dist/
